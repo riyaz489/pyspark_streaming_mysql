@@ -1,0 +1,8 @@
+# config for project
+
+twitter:
+  # twitter secrets
+  ACCESS_TOKEN: "1252123083219050498-YUCNFQYKe9eN7ionGUdCnJQOI4Fc2p"
+  ACCESS_SECRET: "ISfKaCQJCSoaxFbRgIIIZpnUF50zsdmxuBgcfP62jBTPA"
+  CONSUMER_KEY: "coYHxXOq86EQqskhXiiZqH8uw"
+  CONSUMER_SECRET: "W40ckTwBDwYK0VU3bWijHu6UphzUiv21QGOhZNpTuMakdjNzhC"
